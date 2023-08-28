@@ -33,6 +33,7 @@ public class AirthmeticExcption {
 			System.out.println("Excpetion Handled");
 		}
 		System.out.println("Rest of the code ");
+		System.out.println("******hi*******");
 
 	}
 
